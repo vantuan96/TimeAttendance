@@ -1,0 +1,37 @@
+
+Date: 15/04/2021 16:12:38 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:19:07 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:19:13 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:19:52 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:20:58 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:22:19 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:23:14 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:32:20 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:32:24 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:32:25 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:33:35 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:33:35 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:33:42 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:33:42 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:35:25 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:35:26 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:35:33 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
+Date: 15/04/2021 16:35:33 - Message: OpenMDB
+Could not find file 'C:\Users\ADMIN\source\repos\TimeAttendance\TimeAttendance\bin\Debug\HXData.mdb'.
