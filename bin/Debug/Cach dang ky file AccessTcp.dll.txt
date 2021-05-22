@@ -1,0 +1,3 @@
+    Copy AccessTcp.dll file into the c:\windows\System32 folder
+    Right-click on "Command Prompt" and select "Run as Administrator"
+    Then register the file: regsvr32 c:\windows\system32\AccessTcp.dll

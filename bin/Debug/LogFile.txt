@@ -1,0 +1,13 @@
+
+Date: 19/04/2016 09:39:58 - Message: FillData
+Malformed GUID. in query expression 'EventID = DataGridViewTextBoxColumn { Name=EventType, Index=5 }'.
+select * from TEventType where EventID = DataGridViewTextBoxColumn { Name=EventType, Index=5 }
+Date: 19/04/2016 09:42:47 - Message: FillData
+Malformed GUID. in query expression 'EventID = DataGridViewTextBoxColumn { Name=EventType, Index=5 }'.
+select * from TEventType where EventID = DataGridViewTextBoxColumn { Name=EventType, Index=5 }
+Date: 19/04/2016 09:42:49 - Message: FillData
+Malformed GUID. in query expression 'EventID = DataGridViewTextBoxColumn { Name=EventType, Index=5 }'.
+select * from TEventType where EventID = DataGridViewTextBoxColumn { Name=EventType, Index=5 }
+Date: 19/04/2016 09:43:49 - Message: FillData
+Syntax error (missing operator) in query expression 'EventID = Entry access (Vào)'.
+select * from TEventType where EventID = Entry access (Vào)
